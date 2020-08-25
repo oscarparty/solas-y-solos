@@ -1,0 +1,21 @@
+INSTRUCCIONES
+*************
+
+EL UNICO ARCHIVO A EDITAR ES EL QUE ESTA EN LA SIGUIENTE DIRECCION
+PlayerHtml/js/script.js
+
+*Al abrir el archivo podrás ingresar la url de tu streaming de audio, asi mismo escribir el nombre de tu estación, posteriormente procedes a subir todos los archivos en una sola carpeta en tu hosting.
+
+*Al ya estar editado y puesto en el hosting usarás estos codigos para insertar en tu web, puedes editar el tamaño.
+
+<center>
+<iframe allowtransparency="yes" border="0" frameborder="NO" height="780px" marginheight="0px" marginwidth="" scrolling="NO" src="URL DEL PLAYER" width="500px"></iframe></center>
+
+
+*Ejemplo del url de player que debes ingresar en los codigos que usarás para tu sitio web: https://playerstream.net/ReprosGratis/playergratis01/
+
+Gracias por visitar nuestro sitio web!
+
+Werner Stream Hd
+https://wernerstreamhd.com/
+Whatsapp: +1 570 500 5122
